@@ -1,0 +1,12 @@
+# Blender temp files
+*.blend1
+*.blend2
+*.blend@ 
+*.tmp
+__pycache__/
+*.bak
+
+# Cache & autosave
+*.blend1
+*.blend@
+
